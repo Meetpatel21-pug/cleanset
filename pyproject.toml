@@ -4,13 +4,13 @@ build-backend = "hatchling.build"
 
 [project]
 name = "cleanoutliers"
-version = "0.1.0"
+version = "0.1.1"
 description = "A small Python library to detect and remove outliers from datasets."
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.9"
 authors = [
-  { name = "Your Name", email = "you@example.com" }
+  { name = "Meet Parsana" }
 ]
 keywords = ["outlier", "data-cleaning", "statistics", "machine-learning"]
 classifiers = [
